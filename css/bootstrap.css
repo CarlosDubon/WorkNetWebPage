@@ -6564,3 +6564,11 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+#btn-btn-see {
+    margin-top: 50% !import;
+}
+
+#hrazul {
+    border-color: #2c3e50 !important;
+}
